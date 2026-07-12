@@ -33,7 +33,7 @@ const projects: Project[] = [
     source: [
       {
         type: "github",
-        href: "https://github.com/txrunishere/POV",
+        href: "https://github.com/tarunnsoni/POV",
       },
     ],
   },
@@ -54,7 +54,7 @@ const projects: Project[] = [
     source: [
       {
         type: "github",
-        href: "https://github.com/txrunishere/tagtrack",
+        href: "https://github.com/tarunnsoni/tagtrack",
       },
       {
         type: "website",
@@ -79,7 +79,7 @@ const projects: Project[] = [
     source: [
       {
         type: "github",
-        href: "https://github.com/txrunishere/Nestly",
+        href: "https://github.com/tarunnsoni/Nestly",
       },
     ],
   },
@@ -92,7 +92,7 @@ const projects: Project[] = [
     source: [
       {
         type: "github",
-        href: "http://github.com/txrunishere/Wayfarer",
+        href: "http://github.com/tarunnsoni/Wayfarer",
       },
     ],
     stack: ["Tanstack Start", "Vercel AI-SDK", "Google Gemini"],

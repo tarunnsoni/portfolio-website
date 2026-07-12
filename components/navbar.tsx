@@ -31,7 +31,7 @@ export const Navbar = () => {
           />
         </svg>
       ),
-      href: "https://github.com/txrunishere",
+      href: "https://github.com/tarunnsoni",
     },
     {
       id: 2,
