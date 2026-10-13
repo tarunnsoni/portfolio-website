@@ -39,6 +39,24 @@ const projects: Project[] = [
   },
   {
     id: 2,
+    description:
+      "A simple, secure cloud storage platform to upload, organize, manage, and access your files from anywhere.",
+    name: "Cloud Vault",
+    image: "/cloudvault-show.png",
+    source: [
+      {
+        type: "github",
+        href: "https://github.com/tarunnsoni/cloudvault",
+      },
+      {
+        type: "website",
+        href: "https://cloudvault-drive.vercel.app",
+      },
+    ],
+    stack: ["Tanstack Start", "Supabase", "Clerk"],
+  },
+  {
+    id: 3,
     name: "TagTrack",
     description:
       "A product price tracker that helps users monitor online products and receive instant email alerts whenever prices decrease, ensuring they never miss a deal.",
@@ -59,27 +77,6 @@ const projects: Project[] = [
       {
         type: "website",
         href: "https://tag-track.vercel.app",
-      },
-    ],
-  },
-  {
-    id: 3,
-    description:
-      "Nestly is a modern real estate app for exploring and discovering properties with a clean UI, smooth experience",
-    image: "/nestly-show.jpeg",
-    name: "Nestly",
-    stack: [
-      "React Native",
-      "Expo",
-      "Clerk",
-      "NativeWind",
-      "Zustand",
-      "Supabase",
-    ],
-    source: [
-      {
-        type: "github",
-        href: "https://github.com/tarunnsoni/Nestly",
       },
     ],
   },
