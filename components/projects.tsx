@@ -91,6 +91,10 @@ const projects: Project[] = [
         type: "github",
         href: "http://github.com/tarunnsoni/Wayfarer",
       },
+      {
+	type: "website",
+	href: "https://way-farer-travel.vercel.app"
+      }
     ],
     stack: ["Tanstack Start", "Vercel AI-SDK", "Google Gemini"],
   },
